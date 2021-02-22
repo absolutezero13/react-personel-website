@@ -1,0 +1,12 @@
+.about-me {
+  display: flex;
+  flex-direction: column;
+  max-width: 100%;
+  text-align: center;
+  justify-content: center;
+}
+
+.about-me p {
+  align-self: center;
+  max-width: 60%;
+}
